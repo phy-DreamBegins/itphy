@@ -3,5 +3,7 @@ public class Hello {
         System.out.println("HELLO,GIT.--> dev ");
 
         System.out.println("new insert");
+
+        System.out.println(" dev new insert ");
     }
 }
