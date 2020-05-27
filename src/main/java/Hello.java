@@ -5,5 +5,6 @@ public class Hello {
         System.out.println("new insert");
 
         System.out.println(" dev new insert ");
+        System.out.println(" 故意刁难。。。 ");
     }
 }
